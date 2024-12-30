@@ -11,7 +11,7 @@ numpy
 pickle-mixin
 scikit-learn
 scipy
-thereadpoolctl
+threadpoolctl
 typing_extensions
 Werkzeug
 zipp
